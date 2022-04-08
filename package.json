@@ -1,0 +1,13 @@
+{
+  "name": "alpha-bot",
+  "version": "1.0.0",
+  "description": "this is an alpha bot for jyd",
+  "main": "index.js",
+  "author": "jyd devs",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
